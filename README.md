@@ -1,4 +1,4 @@
-- Hi 👋, I'm <b>Komal Singh</b>
+- Hi 👋, I'm **Komal Singh**
 - 👩‍💻 A Fullstack Developer
 
 - 🔭 I’m interested in **DSA & Dev**
